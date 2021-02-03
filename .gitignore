@@ -1,5 +1,7 @@
-data/crops/
+data/
+model_weights.*
 run.bat
 archive/
 archive.zip
 .ipynb_checkpoints/
+checkpoint
